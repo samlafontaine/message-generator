@@ -10,6 +10,3 @@ const randomWord = (arr1, arr2, arr3) => {
 } 
 
 console.log(randomWord(data1, data2, data3));
-
-
-
